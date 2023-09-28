@@ -9,7 +9,7 @@
 <img width="170" height="auto" align="right"  src="img/dav-me.svg" alt="" class="dav-circle">
 
 <div align=left">
-  <h3>👋🏾 Hola, soy...</h3>
+  <h3>👋🏾 Hola...</h3>
   <p>
     Mi nombre es <b>Davis Quintero</b> soy:
   </p>
