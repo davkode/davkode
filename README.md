@@ -11,13 +11,13 @@
 <div align=left">
   <h3>👋🏾 Hola...</h3>
   <p>
-    Mi nombre es <b>Davis Quintero</b> soy:
+    Mi nombre es <b>Davis Quintero</b>, soy:
   </p>
   <p>
-    <b>💾 Técnico en Sistemas</b> con en enfasis en Mantenimiento Preventivo y Correctivo a Equipos de Computo.
+    <b>💾 Técnico en Sistemas</b> con un alto nivel en el desarrollo de actividades productivas relacionadas con el ensamblaje, mantenimiento, actualización, instalación y configuración de equipos de cómputo; manejo de Software Ofimático y Herramientas Tics.
   </p>
   <p>
-    <b>🚀Arquitecto Frotend</b> (HTML, CSS y JavaScript).
+    <b>🚀Arquitecto Frotend</b> (HTML, CSS y JavaScript); desde el 2014 tengo experiencia en el Desarrollo Web como Freelance, orientado a la Arquitectura Frontend; maquetación y optimización para el buen posicionamiento y rendimiento de sitios Web e Interfaces de Usuario..
   </p>
   <p>
     <b>📈 Trading Apacionado</b>...
@@ -29,10 +29,6 @@
 ---
 
 \
-Con un alto nivel en el desarrollo de actividades productivas relacionadas con el ensamblaje, mantenimiento, actualización, instalación y configuración de equipos de cómputo; manejo de Software Ofimático y Herramientas Tics.
-
-Desde el 2014 tengo experiencia en el Desarrollo Web como Freelance, orientado a la Arquitectura Frontend; maquetación y optimización para el buen posicionamiento y rendimiento de sitios Web e Interfaces de Usuario.
-
 Las tecnologias que manejo son:
 
 <div align="center">
